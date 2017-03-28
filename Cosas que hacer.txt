@@ -1,0 +1,5 @@
+- Poder comerse los fantasmas
+- Que empiece con la puerta cerrada, salgan los fantasmas y luego se cierre
+- Que le puerta no se pueda atravesar
+- Cuando pierdas se reinicie el juego
+- Sumar los puntos cuando te comsa un fantasma
