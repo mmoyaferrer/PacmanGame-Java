@@ -1,5 +1,11 @@
 # PacmanGame-Java
+
 Pacman basic game using java as programming language
+
+# Authors
+
+Manuel Moya Ferrer
+Jose Manuel Gacía Giménez
 
 # License
 
